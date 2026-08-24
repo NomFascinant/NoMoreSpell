@@ -1,0 +1,226 @@
+{
+    "fireball_cast": {
+        "sounds": [
+            {
+                "name": "nomorespell-rvknbyie:fireball_cast"
+            }
+        ]
+    },
+    "spell_sfx_pack": {
+        "sounds": [
+            {
+                "name": "nomorespell-rvknbyie:spell_sfx_pack"
+            }
+        ]
+    },
+    "no_more_spell_ui_sounds": {
+        "sounds": [
+            {
+                "name": "nomorespell-rvknbyie:no_more_spell_ui_sounds"
+            }
+        ]
+    },
+    "sacrifice_success_chime": {
+        "sounds": [
+            {
+                "name": "nomorespell-rvknbyie:sacrifice_success_chime"
+            }
+        ]
+    },
+    "fireball_explosion": {
+        "sounds": [
+            {
+                "name": "nomorespell-rvknbyie:fireball_explosion"
+            }
+        ]
+    },
+    "sacrifice_chime": {
+        "sounds": [
+            {
+                "name": "nomorespell-rvknbyie:sacrifice_chime"
+            }
+        ]
+    },
+    "healing_swiftness_sfx": {
+        "sounds": [
+            {
+                "name": "nomorespell-rvknbyie:healing_swiftness_sfx"
+            }
+        ]
+    },
+    "spell_cinematic_sfx": {
+        "sounds": [
+            {
+                "name": "nomorespell-rvknbyie:spell_cinematic_sfx"
+            }
+        ]
+    },
+    "rank_a_spells_sounds": {
+        "sounds": [
+            {
+                "name": "nomorespell-rvknbyie:rank_a_spells_sounds"
+            }
+        ]
+    },
+    "s_spells_sounds": {
+        "sounds": [
+            {
+                "name": "nomorespell-rvknbyie:s_spells_sounds"
+            }
+        ]
+    },
+    "healing_touch_sfx": {
+        "sounds": [
+            {
+                "name": "nomorespell-rvknbyie:healing_touch_sfx"
+            }
+        ]
+    },
+    "swiftness_aura_sounds": {
+        "sounds": [
+            {
+                "name": "nomorespell-rvknbyie:swiftness_aura_sounds"
+            }
+        ]
+    },
+    "frost_nova": {
+        "sounds": [
+            {
+                "name": "nomorespell-rvknbyie:frost_nova"
+            }
+        ]
+    },
+    "group_heal_sounds": {
+        "sounds": [
+            {
+                "name": "nomorespell-rvknbyie:group_heal_sounds"
+            }
+        ]
+    },
+    "battle_boost_sfx": {
+        "sounds": [
+            {
+                "name": "nomorespell-rvknbyie:battle_boost_sfx"
+            }
+        ]
+    },
+    "chain_lightning_sfx": {
+        "sounds": [
+            {
+                "name": "nomorespell-rvknbyie:chain_lightning_sfx"
+            }
+        ]
+    },
+    "sacred_circle_sounds": {
+        "sounds": [
+            {
+                "name": "nomorespell-rvknbyie:sacred_circle_sounds"
+            }
+        ]
+    },
+    "team_fortress_sfx_pack": {
+        "sounds": [
+            {
+                "name": "nomorespell-rvknbyie:team_fortress_sfx_pack"
+            }
+        ]
+    },
+    "meteor_strike_sfx": {
+        "sounds": [
+            {
+                "name": "nomorespell-rvknbyie:meteor_strike_sfx"
+            }
+        ]
+    },
+    "frost_nova_fx": {
+        "sounds": [
+            {
+                "name": "nomorespell-rvknbyie:frost_nova_fx"
+            }
+        ]
+    },
+    "frost_nova_all": {
+        "sounds": [
+            {
+                "name": "nomorespell-rvknbyie:frost_nova_all"
+            }
+        ]
+    },
+    "group_heal": {
+        "sounds": [
+            {
+                "name": "nomorespell-rvknbyie:group_heal"
+            }
+        ]
+    },
+    "frost_nova_cast": {
+        "sounds": [
+            {
+                "name": "nomorespell-rvknbyie:frost_nova_cast"
+            }
+        ]
+    },
+    "frost_nova_spike": {
+        "sounds": [
+            {
+                "name": "nomorespell-rvknbyie:frost_nova_spike"
+            }
+        ]
+    },
+    "swiftness_aura_sfx": {
+        "sounds": [
+            {
+                "name": "nomorespell-rvknbyie:swiftness_aura_sfx"
+            }
+        ]
+    },
+    "nomore_swiftness_sfx": {
+        "sounds": [
+            {
+                "name": "nomorespell-rvknbyie:nomore_swiftness_sfx"
+            }
+        ]
+    },
+    "fireball_spawn": {
+        "sounds": [
+            {
+                "name": "nomorespell-rvknbyie:fireball_spawn"
+            }
+        ]
+    },
+    "domain_expansion_sfx": {
+        "sounds": [
+            {
+                "name": "nomorespell-rvknbyie:domain_expansion_sfx"
+            }
+        ]
+    },
+    "domain_sphere_sound": {
+        "sounds": [
+            {
+                "name": "nomorespell-rvknbyie:domain_sphere_sound"
+            }
+        ]
+    },
+    "domain_sphere_ambience": {
+        "sounds": [
+            {
+                "name": "nomorespell-rvknbyie:domain_sphere_ambience"
+            }
+        ]
+    },
+    "blood_eclipse_beam": {
+        "sounds": [
+            {
+                "name": "nomorespell-rvknbyie:blood_eclipse_beam"
+            }
+        ]
+    },
+    "verdant_halo_angelic": {
+        "sounds": [
+            {
+                "name": "nomorespell-rvknbyie:verdant_halo_angelic"
+            }
+        ]
+    }
+}

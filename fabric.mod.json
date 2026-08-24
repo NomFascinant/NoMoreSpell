@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "nomorespell-rvknbyie",
+  "version": "120.0.0",
+  "name": "Nomorespell",
+  "description": "This mod overhauls the Fireball spell to make it much more reliable at point-blank and short ranges, adding immediate contact handling for targets directly in front of you, improving projectile collision for fast throws and close engagements, and refreshing the fireball\u2019s look to a clearer orange core with fiery accents. Use it exactly like before\u2014cast Fireball as normal (no extra buttons or modes)\u2014and you\u2019ll get consistent hit registration, ignition and impact effects, and improved visuals at close and short range.",
+  "authors": [
+    "klow using CreativeMode.net"
+  ],
+  "contact": {
+    "homepage": "https://creativemode.net",
+    "sources": "https://creativemode.net/mod/nomorespell-rvknbyie"
+  },
+  "license": "ARR - CreativeMode.net/mod-license",
+  "icon": "",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "nomorespell_rvknbyie.Nomorespell"
+    ],
+    "client": [
+      "nomorespell_rvknbyie.NomorespellClient"
+    ],
+    "fabric-datagen": [
+      "nomorespell_rvknbyie.NomorespellDataGenerator"
+    ]
+  },
+  "mixins": [
+    "nomorespell_rvknbyie.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.14",
+    "minecraft": "~1.21.5",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  },
+  "custom": {
+    "modmenu": {
+      "links": {
+        "modmenu.discord": "https://discord.gg/creativemode"
+      }
+    },
+    "creativemode:mod": {
+      "schemaVersion": 1,
+      "modId": "f2d5b1b7-a40b-469c-ad8c-0a433bd7968f",
+      "modSlug": "nomorespell-rvknbyie",
+      "modVersion": 120
+    }
+  },
+  "jars": [
+    {
+      "file": "META-INF/jars/creativemode-telemetry.jar"
+    }
+  ]
+}

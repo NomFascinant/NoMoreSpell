@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Fabric-Jar-Type: classes
+Fabric-Loom-Client-Only-Entries: nomorespell_rvknbyie/NomorespellClient$
+ BloodEclipseRenderState.class;nomorespell_rvknbyie/NomorespellClient$Ra
+ inOfPicksRenderState.class;nomorespell_rvknbyie/NomorespellClient$Verda
+ ntHaloLoopSoundInstance.class;nomorespell_rvknbyie/NomorespellClient$Ve
+ rdantHaloRenderState.class;nomorespell_rvknbyie/NomorespellClient.class
+ ;nomorespell_rvknbyie/RainOfPicksRenderer$PickVisual.class;nomorespell_
+ rvknbyie/RainOfPicksRenderer.class;nomorespell_rvknbyie/SpellBookScreen
+ $1.class;nomorespell_rvknbyie/SpellBookScreen$CachedSpellText.class;nom
+ orespell_rvknbyie/SpellBookScreen$ClickRegion.class;nomorespell_rvknbyi
+ e/SpellBookScreen$TabButton.class;nomorespell_rvknbyie/SpellBookScreen.
+ class;nomorespell_rvknbyie/VerdantHaloRenderer.class
+Fabric-Loom-Mixin-Remap-Type: mixin
+Fabric-Loom-Split-Environment: true
+Fabric-Gradle-Version: 8.12.1
+Fabric-Loom-Version: 1.10.5
+Fabric-Mixin-Compile-Extensions-Version: 0.6.0
+Fabric-Minecraft-Version: 1.21.5
+Fabric-Tiny-Remapper-Version: 0.11.1
+Fabric-Loader-Version: 0.16.14
+Fabric-Mixin-Version: 0.15.5+mixin.0.8.7
+Fabric-Mixin-Group: net.fabricmc
+Fabric-Mapping-Namespace: intermediary
+

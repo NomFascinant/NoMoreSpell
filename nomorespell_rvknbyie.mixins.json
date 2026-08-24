@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "nomorespell_rvknbyie.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ExplosionImplMixin",
+    "LivingEntityDamageMixin",
+    "PlayerDeathMixin",
+    "ServerPlayerEntityDamageMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "nomorespell_rvknbyie.refmap.json"
+}

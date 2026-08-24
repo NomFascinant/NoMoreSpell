@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " AB",
+    "BCB",
+    "BA "
+  ],
+  "key": {
+    "A": "minecraft:amethyst_shard",
+    "B": "minecraft:crying_obsidian",
+    "C": "minecraft:book"
+  },
+  "result": {
+    "id": "nomorespell-rvknbyie:nomorespell_rvknbyie"
+  }
+}

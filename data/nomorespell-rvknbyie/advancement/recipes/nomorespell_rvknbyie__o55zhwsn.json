@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:recipes/root",
+    "criteria": {
+      "joined_world": {
+        "trigger": "minecraft:tick"
+      }
+    },
+    "requirements": [["joined_world"]],
+    "rewards": {
+      "recipes": ["nomorespell-rvknbyie:nomorespell_rvknbyie__o55zhwsn"]
+    }
+  }

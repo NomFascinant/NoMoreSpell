@@ -1,0 +1,32 @@
+{
+  "mappings": {
+    "nomorespell_rvknbyie/mixin/ExplosionImplMixin": {
+      "destroyBlocks": "Lnet/minecraft/class_9892;method_61732(Ljava/util/List;)V"
+    },
+    "nomorespell_rvknbyie/mixin/LivingEntityDamageMixin": {
+      "damage": "Lnet/minecraft/class_1309;method_64397(Lnet/minecraft/class_3218;Lnet/minecraft/class_1282;F)Z"
+    },
+    "nomorespell_rvknbyie/mixin/PlayerDeathMixin": {
+      "onDeath": "Lnet/minecraft/class_1309;method_6078(Lnet/minecraft/class_1282;)V"
+    },
+    "nomorespell_rvknbyie/mixin/ServerPlayerEntityDamageMixin": {
+      "damage": "Lnet/minecraft/class_3222;method_64397(Lnet/minecraft/class_3218;Lnet/minecraft/class_1282;F)Z"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "nomorespell_rvknbyie/mixin/ExplosionImplMixin": {
+        "destroyBlocks": "Lnet/minecraft/class_9892;method_61732(Ljava/util/List;)V"
+      },
+      "nomorespell_rvknbyie/mixin/LivingEntityDamageMixin": {
+        "damage": "Lnet/minecraft/class_1309;method_64397(Lnet/minecraft/class_3218;Lnet/minecraft/class_1282;F)Z"
+      },
+      "nomorespell_rvknbyie/mixin/PlayerDeathMixin": {
+        "onDeath": "Lnet/minecraft/class_1309;method_6078(Lnet/minecraft/class_1282;)V"
+      },
+      "nomorespell_rvknbyie/mixin/ServerPlayerEntityDamageMixin": {
+        "damage": "Lnet/minecraft/class_3222;method_64397(Lnet/minecraft/class_3218;Lnet/minecraft/class_1282;F)Z"
+      }
+    }
+  }
+}
